@@ -12,8 +12,8 @@
       {
       "chainId": 1,
       "address": "0x9b62Ec1453cEa5Dde760AAf662048cA6eEB66E7f",
-      "name": “Consensus CellNetwork",
-      "symbol": “ECELL”,
+      "name": "Consensus CellNetwork",
+      "symbol": "ECELL",
       "decimals": 2,
       "logoURI": "https://ningshui-message.oss-cn-beijing.aliyuncs.com/1589017036719615995-eCell%20Logo.png"
       }
