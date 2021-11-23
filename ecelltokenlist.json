@@ -1,26 +1,38 @@
-
 {
-  "name": "DEFI",
+  "name": "My Token List",
   "logoURI": "https://ningshui-message.oss-cn-beijing.aliyuncs.com/1589017036719615995-eCell%20Logo.png",
   "keywords": [
-      "defi",
-      "DEFI",
-      "yield"
-    ],
-    "timestamp": "2021-11-23T01:40:34.305Z",
-    "tokens": [
-      {
+    "audited",
+    "verified",
+    "special tokens"
+  ],
+  "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": ""
+    },
+    "compound": {
+      "name": "Compound Finance",
+      "description": ""
+    }
+  },
+  "timestamp": "2021-11-23T00:00:00+00:00",
+  "tokens": [
+    {
       "chainId": 1,
       "address": "0x9b62Ec1453cEa5Dde760AAf662048cA6eEB66E7f",
-      "name": "Consensus CellNetwork",
       "symbol": "ECELL",
+      "name": "Consensus CellNetwork",
       "decimals": 2,
-      "logoURI": "https://ningshui-message.oss-cn-beijing.aliyuncs.com/1589017036719615995-eCell%20Logo.png"
-      }
-    ],
-    "version": {
-      "major": 1,
-      "minor": 0,
-      "patch": 0
+      "logoURI": "https://ningshui-message.oss-cn-beijing.aliyuncs.com/1589017036719615995-eCell%20Logo.png",
+      "tags": [
+        "stablecoin"
+      ]
     }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
 }
